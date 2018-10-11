@@ -1,7 +1,8 @@
 # SmartCamera
 
 Простое приложение, которое позволяет определять объекты в реальном времени, посредством камеры.
-Используются такие вещи, как Core ML и Vision.
+Используются такие вещи, как Core ML и Vision. 
+За основу Image Classifier взята модель MobileNet.
 
 ![Xcode 10.0+](https://img.shields.io/badge/Xcode-10.0%2B-blue.svg)
 ![iOS 12.0+](https://img.shields.io/badge/iOS-12.0%2B-blue.svg)
